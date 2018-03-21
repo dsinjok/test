@@ -2,5 +2,5 @@
 int main(int argc, char **argv)
 {
 	printf("dsinjok.\n");
-
+	return 0;
 }
